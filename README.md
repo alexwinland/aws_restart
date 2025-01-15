@@ -1,4 +1,4 @@
-# 🚀 AWS re/Start: Explorando o Mundo do Git e GitHub 🌍
+# AWS re/Start: Explorando o Mundo do Git e GitHub 🌍🚀
 
 Este repositório foi criado como parte do laboratório **"Creating a Git Repository"** do programa AWS re/Start. Aqui, você encontrará uma coleção de laboratórios e exercícios que exploram os conceitos básicos de controle de versão usando Git e GitHub, organizando e armazenando meus arquivos de laboratório na nuvem, além de conceitos essenciais de Python. 🐍☁️
 
@@ -8,8 +8,7 @@ Este repositório foi criado como parte do laboratório **"Creating a Git Reposi
 1. **Soluções para os laboratórios anteriores:**  
    Arquivos Python utilizados durante o programa.
    
-Este repositório inclui:
-
+   Este repositório inclui:
 - **Laboratórios de Python**: Exercícios práticos para aprimorar suas habilidades em Python, incluindo:
   - `hello-world.py`: Introdução ao Python com um simples "Olá, Mundo!". 🌍
   - `numeric-data.py`: Manipulação de tipos de dados numéricos. ➕➖
