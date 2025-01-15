@@ -59,10 +59,10 @@ Para aprofundar seus conhecimentos, confira os seguintes recursos:
 - [Guias do GitHub](https://guides.github.com/)
 - [Python.org](https://www.python.org/) - Documentação oficial do Python
 
-## Contribuições 🤝
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou sugestões.
+Aproveite sua jornada no mundo do desenvolvimento com Git, GitHub, Python e Nuvem! 🌟 
 
 ---
 
-Aproveite sua jornada no mundo do desenvolvimento com Git, GitHub, Python e Nuvem! 🌟 
+## Contribuições 🤝
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou sugestões.
